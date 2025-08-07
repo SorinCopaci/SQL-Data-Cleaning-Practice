@@ -7,6 +7,7 @@ The goal of this query is to identify the top 10 most expensive drug entries fro
 ---
 ##  [Download CSV result](../results/most_expensive_drugs.csv)
 ## [Query result screenshot](../results/most_expensive_drugs_result.png)
+## [Top 10 Most Expensive Drugs](../results/most_expensive_drugs_chart.png)
 ---
 
 ##  SQL Query
