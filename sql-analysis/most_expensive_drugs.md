@@ -13,7 +13,7 @@ The goal of this query is to identify the top 10 most expensive drug entries fro
 
 ```sql
 SELECT date, product, price_pence / 100 AS price_gbp
-FROM tariffs
+FROM tariff
 ORDER BY price_pence DESC
 LIMIT 10;
 
