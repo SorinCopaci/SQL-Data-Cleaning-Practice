@@ -25,13 +25,13 @@ GROUP BY vmpp
 ORDER BY occurrences DESC
 LIMIT 10;
 This revealed Hydrocortisone 1% cream 15 gram as one of the most frequent products in the dataset.
-
- Step 2: SQL Query to Track Price Over Time
+---
+```markdown
+##  Step 2: SQL Query to Track Price Over Time
 We then used the following query to track average price over time:
 
-sql
-Copy
-Edit
+```sql
+
 SELECT 
   date,
   ROUND(AVG(price_pence) / 100.0, 2) AS avg_price_gbp
