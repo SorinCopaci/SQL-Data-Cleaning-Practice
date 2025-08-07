@@ -1,0 +1,7 @@
+SELECT 
+  product,
+  COUNT(*) AS occurrences
+FROM tariff
+GROUP BY product
+ORDER BY occurrences DESC
+LIMIT 10;
