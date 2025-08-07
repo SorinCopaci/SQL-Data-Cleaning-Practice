@@ -79,4 +79,5 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 ## 🙋‍♂️ About Me
 
 Created by **Sorin Copaci**, a biomedical science graduate with a strong interest in data analysis and health tech.  
-Connect with me on [LinkedIn](www.linkedin.com/in/sorin-alexandru-copaci-a0218b359)  
+Connect with me on [LinkedIn](www.linkedin.com/in/sorin-copaci)
+)  
