@@ -1,35 +1,36 @@
 # SQL-Data-Cleaning-Practice
-Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
-##  Dataset
 
-- `tariffs.csv` – Contains approximately 500,000 rows of NHS drug tariff data.
-- Columns include: `date`, `pack_size`, `price_pence`, `product`, `tariff_category`, `vmpp`, `vmpp_id`.
+Practice SQL queries for cleaning and analysing a large NHS drug tariff dataset (~500,000 rows).
 
 ---
 
-## SQL Analyses
+## 📁 Dataset
+
+- `tariffs.csv` – Full NHS drug tariff data
+- Columns: `date`, `pack_size`, `price_pence`, `product`, `tariff_category`, `vmpp`, `vmpp_id`
+
+---
+
+## 🧪 SQL Analyses
 
 | Query Title | Description |
 |-------------|-------------|
-| [most_expensive_drugs.sql](most_expensive_drugs.sql) | Identifies the top 10 most expensive drugs based on unit price (in GBP) |
+| [most_expensive_drugs.sql](sql-analysis/most_expensive_drugs.sql) | Identifies the top 10 most expensive drugs based on unit price in GBP |
 
-|  Coming soon | Price trends over time for selected drugs |
-|  Coming soon | Tariff category analysis |
+🖼️ **Power BI Visual**:  
+![Top 10 Most Expensive Drugs](img/most_expensive_drugs_chart.png)
 
----
-
-## Skills Demonstrated
-
-- Data cleaning and transformation
-- Query optimisation
-- Working with large CSV datasets
-- Using GitHub for project version control
-- Documenting SQL logic and analysis using Markdown
+📌 Tooltip reveals:  
+- Product code  
+- Unit price (£)  
+- Date of highest price
 
 ---
 
-##  Next Steps
+## 📊 Tools Used
 
-- Add Power BI or Excel visualisation based on query results
-- Expand analysis with category-level insights
-- Share project on LinkedIn portfolio
+- SQL (SQLite)
+- DB Browser for SQLite
+- Power BI
+- GitHub
+- Markdown
