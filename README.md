@@ -17,7 +17,7 @@ Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
 |  Coming soon | Tariff category analysis |
 
 ---
-|[Download CSV result](../results/most_expensive_drugs.csv)
+
 ## Skills Demonstrated
 
 - Data cleaning and transformation
