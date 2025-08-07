@@ -1,4 +1,5 @@
-SELECT date, product, price_pence/100 AS price_gbp
+SELECT product, MAX(price_pence) / 100.0 AS max_price_gbp
 FROM tariff
-ORDER BY price_pence DESC
+GROUP BY product
+ORDER BY max_price_gbp DESC
 LIMIT 10;
