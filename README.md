@@ -30,7 +30,7 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 **SQL:** [`compare_tariff_categories.sql`](sql-analysis/compare_tariff_categories.sql)  
 **Output CSV:** [`results/compare_tariff_categories.csv`](results/compare_tariff_categories.csv)  
 **Visualisation:**  
-[Tariff Category Comparison](results/compare_tariff_categories.png)
+[Tariff Category Comparison](results/compare_tariff_categories_chart.png)
 
 ---
 
@@ -41,7 +41,7 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 **SQL:** [`most_expensive_drugs.sql`](sql-analysis/most_expensive_drugs.sql)  
 **Output CSV:** [`results/most_expensive_drugs.csv`](results/most_expensive_drugs.csv)  
 **Visualisation:**  
-[Most Expensive Drugs](results/most_expensive_drugs.png)
+[Most Expensive Drugs](results/most_expensive_drugs_chart.png)
 
 ---
 
@@ -79,4 +79,4 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 ## 🙋‍♂️ About Me
 
 Created by **Sorin Copaci**, a biomedical science graduate with a strong interest in data analysis and health tech.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sorin-copaci/)  
+Connect with me on [LinkedIn](www.linkedin.com/in/sorin-alexandru-copaci-a0218b359)  
