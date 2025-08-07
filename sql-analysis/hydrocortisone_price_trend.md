@@ -30,8 +30,8 @@ This revealed Hydrocortisone 1% cream 15 gram as one of the most frequent produc
 ##  Step 2: SQL Query to Track Price Over Time
 We then used the following query to track average price over time:
 
-```sql
 
+```sql
 SELECT 
   date,
   ROUND(AVG(price_pence) / 100.0, 2) AS avg_price_gbp
@@ -39,3 +39,4 @@ FROM tariff
 WHERE vmpp LIKE '%Hydrocortisone 1% cream 15 gram%'
 GROUP BY date
 ORDER BY date ASC;
+```markdown
