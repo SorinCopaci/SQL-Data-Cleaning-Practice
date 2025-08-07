@@ -46,10 +46,11 @@ ORDER BY date ASC;
 
 ## Step 3: Visualisation
 
+[Hydrocortisone 1% Cream 15g – Price Trend Over Time (GBP)](../results/hydrocortisone_price_trend.png)
 A Power BI line chart was created to illustrate the price trend over time.  
 The x-axis represents the date, and the y-axis shows the average price in GBP.  
 The tooltip includes date context for deeper exploration.
-[Hydrocortisone 1% Cream 15g – Price Trend Over Time (GBP)](../results/hydrocortisone_price_trend.png)
+
 
 
 ---
