@@ -30,7 +30,7 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 **SQL:** [`compare_tariff_categories.sql`](sql-analysis/compare_tariff_categories.sql)  
 **Output CSV:** [`results/compare_tariff_categories.csv`](results/compare_tariff_categories.csv)  
 **Visualisation:**  
-![Tariff Category Comparison](results/compare_tariff_categories.png)
+[Tariff Category Comparison](results/compare_tariff_categories.png)
 
 ---
 
@@ -41,7 +41,7 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 **SQL:** [`most_expensive_drugs.sql`](sql-analysis/most_expensive_drugs.sql)  
 **Output CSV:** [`results/most_expensive_drugs.csv`](results/most_expensive_drugs.csv)  
 **Visualisation:**  
-![Most Expensive Drugs](results/most_expensive_drugs.png)
+[Most Expensive Drugs](results/most_expensive_drugs.png)
 
 ---
 
@@ -52,7 +52,7 @@ Includes trend analysis and price comparisons across categories, with Power BI c
 **SQL:** [`hydrocortisone_price_trend.sql`](sql-analysis/hydrocortisone_price_trend.sql)  
 **Output CSV:** [`results/hydrocortisone_price_trend.csv`](results/hydrocortisone_price_trend.csv)  
 **Visualisation:**  
-![Hydrocortisone Trend](results/hydrocortisone_price_trend.png)
+[Hydrocortisone Trend](results/hydrocortisone_price_trend.png)
 
 ---
 
