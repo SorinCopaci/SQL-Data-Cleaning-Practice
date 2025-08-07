@@ -12,11 +12,12 @@ Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
 | Query Title | Description |
 |-------------|-------------|
 | [most_expensive_drugs.sql](most_expensive_drugs.sql) | Identifies the top 10 most expensive drugs based on unit price (in GBP) |
-| 🔜 Coming soon | Price trends over time for selected drugs |
-| 🔜 Coming soon | Tariff category analysis |
+
+|  Coming soon | Price trends over time for selected drugs |
+|  Coming soon | Tariff category analysis |
 
 ---
-
+|[Download CSV result](../results/most_expensive_drugs.csv)
 ## Skills Demonstrated
 
 - Data cleaning and transformation
