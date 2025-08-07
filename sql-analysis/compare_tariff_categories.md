@@ -5,7 +5,10 @@
 The goal of this query is to compare the average drug prices across different **tariff categories** in the NHS drug dataset. This helps identify which categories are typically more expensive and could inform procurement or policy decisions.
 
 ---
+[Average Price by Tariff Category](../results/compare_tariff_categories_chart.png)
 
+This bar chart shows the average unit price across NHS tariff categories based on SQL analysis. It highlights which categories are typically more expensive, aiding in budget-focused decision-making.
+---
 ##  SQL Query
 
 ```sql
