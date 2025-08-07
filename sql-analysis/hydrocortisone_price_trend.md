@@ -49,7 +49,7 @@ ORDER BY date ASC;
 A Power BI line chart was created to illustrate the price trend over time.  
 The x-axis represents the date, and the y-axis shows the average price in GBP.  
 The tooltip includes date context for deeper exploration.
-
+results/hydrocortisone_price_trend.png
 
 
 ---
