@@ -1,13 +1,13 @@
 # SQL-Data-Cleaning-Practice
 Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
-## 📁 Dataset
+##  Dataset
 
 - `tariffs.csv` – Contains approximately 500,000 rows of NHS drug tariff data.
 - Columns include: `date`, `pack_size`, `price_pence`, `product`, `tariff_category`, `vmpp`, `vmpp_id`.
 
 ---
 
-## 🧪 SQL Analyses
+## SQL Analyses
 
 | Query Title | Description |
 |-------------|-------------|
@@ -17,7 +17,7 @@ Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
 
 ---
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and transformation
 - Query optimisation
@@ -27,7 +27,7 @@ Practice SQL queries for missing/duplicate/inaccurate data using sample datasets
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Add Power BI or Excel visualisation based on query results
 - Expand analysis with category-level insights
