@@ -18,7 +18,7 @@ Practice SQL queries for cleaning and analysing a large NHS drug tariff dataset 
 | [most_expensive_drugs.sql](sql-analysis/most_expensive_drugs.sql) | Identifies the top 10 most expensive drugs based on unit price in GBP |
 
 🖼️ **Power BI Visual**:  
-[Top 10 Most Expensive Drugs](img/most_expensive_drugs_chart.png)
+[Top 10 Most Expensive Drugs](results/most_expensive_drugs_chart.png)
 
 📌 Tooltip reveals:  
 - Product code  
